@@ -1,4 +1,3 @@
 Hello world!
 12345
-Good bye!
-asdf
+Good morning!(from branch add-feature1)
